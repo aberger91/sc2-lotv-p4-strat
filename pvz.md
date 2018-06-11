@@ -10,6 +10,8 @@
     - To complete wall, right before zerglings could come
     - If your scout is suspecting a 12 pool, keep your probe by the wall to do a puckk style wall fill
 
+We have seen puckk do this and he added immortals behind the phoenix along with storm.
+
 # Scouting
 - If you aren't getting ~12 pooled, you should see a hatchery at ~1:00.
 - If you see 2 expansions by ----, you should either take greedy expands yourself or apply pressure (the latter is probably easier).
