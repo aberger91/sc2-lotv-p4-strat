@@ -9,6 +9,9 @@
 - Gateway 
     - To complete wall, right before zerglings could come
     - If your scout is suspecting a 12 pool, keep your probe by the wall to do a puckk style wall fill
+- Nexus
+- Stargate
+- To be continued
 
 We have seen puckk do this and he added immortals behind the phoenix along with storm.
 
